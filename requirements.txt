@@ -1,0 +1,8 @@
+dj-database-url==0.4.2
+Django==1.11.7
+git+https://github.com/nkunihiko/django-bootstrap3-datetimepicker.git
+django-unixdatetimefield==0.1.6
+gunicorn==19.7.1
+psycopg2==2.7.4
+pytz==2018.3
+whitenoise==3.3.1
